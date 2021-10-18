@@ -1,0 +1,31 @@
+/*
+OpenBootCamp 2021 - Giuseppe Allocca
+Ejercicios sesiones 7, 8 y 9 Java Básico
+Dada la función: public static String reverse(String texto) {}
+Escribe el código que devuelva una cadena al revés.
+Por ejemplo, la cadena "hola mundo", debe retornar "odnum aloh".
+ */
+package com.JavaBasico;
+import java.util.Scanner;
+public class CadenaReverse {
+    public static String cadena;
+    public static String variabile;
+    public static void main(String[] args) {
+        Scanner keyboard=new Scanner(System.in);
+            System.out.print("Please insert a String and press [ENTER]:");
+                cadena=keyboard.nextLine();// input a string from user
+                int dimCadena=cadena.length();
+                        System.out.println("Your String is:"+cadena);
+                        System.out.println("Length of String:"+dimCadena);
+                    String result= reverse(cadena);// call function reverse()
+                System.out.println("Your String In Reverse Mode is:"+result);//print the final value
+                                           }
+    public static String reverse(String text) {
+        int l=text.length();// max value
+            String testo="";
+                for(int i=l;i>0;i--){     //set the counter to the length of the string
+                    testo+=(text.charAt(i-1));}
+                        return testo;
+    }
+
+}
