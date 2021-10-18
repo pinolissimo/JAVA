@@ -1,0 +1,28 @@
+/*
+OpenBootCamp 2021 - Giuseppe Allocca
+Ejercicios sesiones 7, 8 y 9 Java Básico
+Crea un array bidimensional de enteros y recórrelo,
+mostrando la posición y el valor de cada elemento en ambas dimensiones.
+ */
+package com.JavaBasico;
+public class ArrayBidimensional {
+    public static void main(String[] args) {
+        // Array
+        int[][] arrayBidimensional =new int[2][3];
+        arrayBidimensional[0][0]=2;
+        arrayBidimensional[0][1]=4;
+        arrayBidimensional[0][2]=8;
+        arrayBidimensional[1][0]=16;
+        arrayBidimensional[1][1]=32;
+        arrayBidimensional[1][2]=64;
+        //end Array
+            System.out.println();
+                System.out.println("Array Bidimensional");
+                    for(int i=0;i<2;i++)//columna
+                        for(int j=0;j<3;j++)//fila
+                            System.out.println(
+                                "Position ["+i+"]"+
+                                         "["+j+"]="+
+                                         arrayBidimensional[i][j]);
+    }
+}
