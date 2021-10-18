@@ -1,0 +1,22 @@
+/*
+OpenBootCamp 2021 - Giuseppe Allocca
+Ejercicios sesiones 7, 8 y 9 Java Básico
+Crea un array unidimensional de Strings y recórrelo, mostrando únicamente sus valores.
+ */
+package com.JavaBasico;
+public class ArrayUnidimensionalDeStrings {
+    public static void main(String[] args) {
+        String []stuff={
+                "Mouse",
+                "Keyboard",
+                "Monitor",
+                "WebCam",
+                "Pen-Drive"};
+        System.out.println();
+        System.out.println("Array Unidimensional tipo String: stuff["+stuff.length+"]");
+        System.out.println();
+            for(String elemento:stuff){
+                System.out.print("["+elemento+"] ");}
+                    System.out.println();
+    }
+}
