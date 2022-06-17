@@ -1,17 +1,16 @@
 <p align="center">
 <h1>User Management CRUD </h1>
- <img src="Screenshot.png" width="70%" height="70%" alt="User Management CRUD" />
+ <img src="Screenshot.png" width="60%" height="60%" alt="User Management CRUD" />
 
-
-<h2>Hi 👋 My name is GIUSEPPE ALLOCCA</h2>
-<h5>IT Technician / IoT Maker / Full-Stack Developer in training at Open Bootcamp</h5>
 <p align="justify">
 I developed this software which simulates a small DB and manages users with a complete CRUD system.
   
 Future implementations can be a graphical interface and a real database.
-  
-I am currently a student at OpenBootCamp (starting October 2021)in order to obtain certifications as a Full Stack Developer.
-</p>
+
+ 
+<h2>Hi 👋 My name is GIUSEPPE ALLOCCA</h2>
+<h5>IT Technician / IoT Maker / Full-Stack Developer in training at Open Bootcamp</h5> 
+I am currently a student at OpenBootCamp (starting October 2021)in order to obtain certifications as a Full Stack Developer.</p>
 <p align="left">
   
 * 🌍  I'm based in Spagna
