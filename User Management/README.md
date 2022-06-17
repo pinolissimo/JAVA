@@ -1,22 +1,30 @@
 <p align="center">
-<img src="Screenshot.png" width="100%" height="100%" alt="User Management CRUD" />
+<h1>User Management CRUD </h1>
+ <img src="Screenshot.png" width="60%" height="60%" alt="User Management CRUD" />
 
-
-Hi 👋 My name is GIUSEPPE ALLOCCA
-=================================
-
-IT Technician / IoT Maker / Full-Stack Developer in training at Open Bootcamp
------------------------------------------------------------------------------
 <p align="justify">
-Since I was a child I have always been in love with technology. Over the past 20 years, I have balanced my passion between Hardware and Software. I am fascinated by the Internet of Things, prototyping, Cloud technology, Front, and Back-end development. I have a natural predisposition to problem solving, analytical mind, and I am always curious to learn new things.Over the years I have gained excellent experience in managing users and technical issues. My skills in applied electronics and new technologies allow me to manage technical support completely and efficiently.I strongly believe that the passion for what we do determines the result of our work. I love my job , providing technical support to users and solving their technical issues makes me satisfied. The smile of the people I have helped motivates me to move forward in my work and always try to improve myself,as a person and as a professional. I am currently a student at OpenBootCamp (starting October 2021)in order to obtain certifications as a Full Stack Developer.
-</p>
-* 🌍  I'm based in Spagna
-* ✉️  You can contact me at [allocca.pino@gmail.com](mailto:allocca.pino@gmail.com)
-* 🧠  I'm learning C# and .NET
-* 🤝  I'm open to collaborating on Software Projects and Prototypes
-* ⚡  http://fab.academany.org/2018/labs/fablabsiena/students/giuseppe-allocca/
+I developed this software which simulates a small DB and manages users with a complete CRUD system.
+  
+Future implementations can be a graphical interface and a real database.
 
-### Skills
+ 
+<h2>Hi 👋 My name is GIUSEPPE ALLOCCA</h2>
+<h5>IT Technician / IoT Maker / Full-Stack Developer in training at Open Bootcamp</h5> 
+I am currently a student at OpenBootCamp (starting October 2021)in order to obtain certifications as a Full Stack Developer.</p>
+<p align="left">
+  
+* 🌍  I'm based in Spagna
+  
+* ✉️  You can contact me at [allocca.pino@gmail.com](mailto:allocca.pino@gmail.com)
+
+* 🧠  I'm learning C# and .NET
+
+* 🤝  I'm open to collaborating on Software Projects and Prototypes
+
+* ⚡  http://fab.academany.org/2018/labs/fablabsiena/students/giuseppe-allocca/
+</p>
+
+<h2> Skills</h2>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
